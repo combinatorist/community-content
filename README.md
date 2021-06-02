@@ -1,9 +1,9 @@
 [![](https://airbyte.io/wp-content/uploads/2020/11/Community-Content_Airbyte-2.png)](https://airbyte.io/community/#articles)
 
 ## Our Philosophy
-Airbyte is fully open by design. We share our [roadmap](https://github.com/airbytehq/airbyte/projects/1), [strategy](https://docs.airbyte.io/company-handbook/company-handbook/strategy) and everything about our [business model](https://docs.airbyte.io/company-handbook/company-handbook/business-model). 
+Airbyte is fully open by design. We share our [roadmap], [strategy](https://handbook.airbyte.io/strategy) and everything about our [business model](https://handbook.airbyte.io/strategy/business-model). 
 
-This repository is also a way to share about our [roadmap](https://github.com/airbytehq/community-content/projects/1) in terms of content publications, so you can vote on the articles, tutorials and videos we plan to work on, but also to participate in them. 
+This repository is also a way to share about our [roadmap] in terms of content publications, so you can vote on the articles, tutorials and videos we plan to work on, but also to participate in them. 
 
 After all, the content is at the service of Airbyte's community of contributors and users, and who better knows what tutorials they need: our community!
 
@@ -22,3 +22,5 @@ You can write about:
 The entire team at Airbyte is very curious what you can building using Airbyte. And it may be the same for our community! Don't hesitate to go in depth, any learning nugget is valuable to us all. 
 
 However, please note that we're NOT looking for promotional pieces or marketing pitches. This is all about interesting things to tell to the community around Airbyte. 
+
+[roadmap]: https://github.com/airbytehq/airbyte/blob/master/docs/project-overview/roadmap.md
